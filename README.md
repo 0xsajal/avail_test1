@@ -122,3 +122,4 @@ To clean up generate coverage information files, run
 	$> find . -name \*.profraw -type f -exec rm -f {} +
 
 Open `index.html` from `./target/debug/coverage/` folder to review coverage data. Since WASM build is not possible yet, SKIP_WASM_BUILD is required when running tests.
+# avail_test1
